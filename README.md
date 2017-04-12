@@ -1,0 +1,1 @@
+# Golang scratch space
